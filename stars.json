@@ -1,9 +1,9 @@
 [
   {
     "full_name": "GoogleCloudPlatform/bigquery-data-lineage",
-    "stargazers_count": 99,
-    "open_issues_count": 13,
-    "forks_count": 28
+    "stargazers_count": 100,
+    "open_issues_count": 12,
+    "forks_count": 27
   },
   {
     "full_name": "Apress/practical-tla-plus",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "beartype/beartype",
-    "stargazers_count": 1307,
+    "stargazers_count": 1308,
     "open_issues_count": 25,
     "forks_count": 24
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "TomWright/dasel",
-    "stargazers_count": 3660,
+    "stargazers_count": 3667,
     "open_issues_count": 20,
     "forks_count": 83
   },
   {
     "full_name": "algorithm-visualizer/algorithm-visualizer",
-    "stargazers_count": 39162,
-    "open_issues_count": 39,
-    "forks_count": 6378
+    "stargazers_count": 39193,
+    "open_issues_count": 40,
+    "forks_count": 6382
   },
   {
     "full_name": "shun/ddu-source-rg",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "nilslice/protolock",
-    "stargazers_count": 488,
+    "stargazers_count": 489,
     "open_issues_count": 14,
     "forks_count": 31
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "jhump/protoreflect",
-    "stargazers_count": 1010,
+    "stargazers_count": 1011,
     "open_issues_count": 19,
     "forks_count": 142
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "99designs/gqlgen",
-    "stargazers_count": 8143,
+    "stargazers_count": 8156,
     "open_issues_count": 138,
     "forks_count": 938
   },
   {
     "full_name": "bojand/ghz",
-    "stargazers_count": 2175,
+    "stargazers_count": 2176,
     "open_issues_count": 57,
     "forks_count": 214
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 29986,
-    "open_issues_count": 416,
-    "forks_count": 4199
+    "stargazers_count": 30015,
+    "open_issues_count": 422,
+    "forks_count": 4219
   },
   {
     "full_name": "lucasepe/draft",
