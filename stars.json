@@ -25,8 +25,8 @@
   },
   {
     "full_name": "beartype/beartype",
-    "stargazers_count": 1316,
-    "open_issues_count": 26,
+    "stargazers_count": 1332,
+    "open_issues_count": 25,
     "forks_count": 25
   },
   {
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "goccy/bigquery-emulator",
-    "stargazers_count": 200,
-    "open_issues_count": 3,
+    "stargazers_count": 215,
+    "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "TomWright/dasel",
-    "stargazers_count": 3713,
+    "stargazers_count": 3729,
     "open_issues_count": 21,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "algorithm-visualizer/algorithm-visualizer",
-    "stargazers_count": 39238,
+    "stargazers_count": 39261,
     "open_issues_count": 40,
-    "forks_count": 6396
+    "forks_count": 6398
   },
   {
     "full_name": "shun/ddu-source-rg",
@@ -68,7 +68,7 @@
   {
     "full_name": "k-nasa/wai",
     "stargazers_count": 68,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "randallkanna/awesome-job-list",
-    "stargazers_count": 1228,
+    "stargazers_count": 1229,
     "open_issues_count": 2,
     "forks_count": 135
   },
   {
     "full_name": "jhump/protoreflect",
-    "stargazers_count": 1013,
+    "stargazers_count": 1015,
     "open_issues_count": 19,
     "forks_count": 142
   },
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "99designs/gqlgen",
-    "stargazers_count": 8181,
+    "stargazers_count": 8193,
     "open_issues_count": 140,
-    "forks_count": 941
+    "forks_count": 942
   },
   {
     "full_name": "bojand/ghz",
-    "stargazers_count": 2188,
-    "open_issues_count": 57,
-    "forks_count": 214
+    "stargazers_count": 2193,
+    "open_issues_count": 58,
+    "forks_count": 215
   },
   {
     "full_name": "google/go-cmdtest",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30113,
-    "open_issues_count": 415,
-    "forks_count": 4254
+    "stargazers_count": 30157,
+    "open_issues_count": 412,
+    "forks_count": 4265
   },
   {
     "full_name": "lucasepe/draft",
