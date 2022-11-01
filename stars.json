@@ -7,20 +7,20 @@
   },
   {
     "full_name": "GoogleCloudPlatform/bigquery-data-lineage",
-    "stargazers_count": 104,
+    "stargazers_count": 105,
     "open_issues_count": 13,
     "forks_count": 28
   },
   {
     "full_name": "Apress/practical-tla-plus",
-    "stargazers_count": 257,
+    "stargazers_count": 258,
     "open_issues_count": 5,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "googleapis/go-sql-spanner",
     "stargazers_count": 74,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 11
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "beartype/beartype",
-    "stargazers_count": 1350,
+    "stargazers_count": 1359,
     "open_issues_count": 25,
     "forks_count": 26
   },
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "goccy/bigquery-emulator",
-    "stargazers_count": 243,
-    "open_issues_count": 5,
-    "forks_count": 9
+    "stargazers_count": 249,
+    "open_issues_count": 9,
+    "forks_count": 10
   },
   {
     "full_name": "TomWright/dasel",
-    "stargazers_count": 3751,
+    "stargazers_count": 3759,
     "open_issues_count": 17,
     "forks_count": 85
   },
   {
     "full_name": "algorithm-visualizer/algorithm-visualizer",
-    "stargazers_count": 39302,
+    "stargazers_count": 39315,
     "open_issues_count": 41,
-    "forks_count": 6402
+    "forks_count": 6403
   },
   {
     "full_name": "shun/ddu-source-rg",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "nilslice/protolock",
-    "stargazers_count": 495,
+    "stargazers_count": 497,
     "open_issues_count": 14,
     "forks_count": 31
   },
   {
     "full_name": "randallkanna/awesome-job-list",
-    "stargazers_count": 1230,
+    "stargazers_count": 1231,
     "open_issues_count": 2,
     "forks_count": 134
   },
   {
     "full_name": "jhump/protoreflect",
-    "stargazers_count": 1020,
-    "open_issues_count": 19,
-    "forks_count": 142
+    "stargazers_count": 1021,
+    "open_issues_count": 18,
+    "forks_count": 141
   },
   {
     "full_name": "moul/protoc-gen-gotemplate",
@@ -115,19 +115,19 @@
   },
   {
     "full_name": "99designs/gqlgen",
-    "stargazers_count": 8229,
-    "open_issues_count": 144,
-    "forks_count": 950
+    "stargazers_count": 8246,
+    "open_issues_count": 143,
+    "forks_count": 953
   },
   {
     "full_name": "bojand/ghz",
     "stargazers_count": 2204,
     "open_issues_count": 59,
-    "forks_count": 216
+    "forks_count": 215
   },
   {
     "full_name": "google/go-cmdtest",
-    "stargazers_count": 122,
+    "stargazers_count": 124,
     "open_issues_count": 1,
     "forks_count": 15
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30259,
-    "open_issues_count": 423,
-    "forks_count": 4315
+    "stargazers_count": 30284,
+    "open_issues_count": 438,
+    "forks_count": 4335
   },
   {
     "full_name": "lucasepe/draft",
