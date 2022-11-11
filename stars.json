@@ -2,7 +2,7 @@
   {
     "full_name": "elastic/ecs",
     "stargazers_count": 871,
-    "open_issues_count": 158,
+    "open_issues_count": 159,
     "forks_count": 376
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "GoogleCloudPlatform/bigquery-data-lineage",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 13,
     "forks_count": 28
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "beartype/beartype",
-    "stargazers_count": 1365,
+    "stargazers_count": 1367,
     "open_issues_count": 21,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "jakkcer/alpdiff",
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "goccy/bigquery-emulator",
-    "stargazers_count": 260,
-    "open_issues_count": 8,
-    "forks_count": 13
+    "stargazers_count": 265,
+    "open_issues_count": 6,
+    "forks_count": 14
   },
   {
     "full_name": "TomWright/dasel",
-    "stargazers_count": 3794,
+    "stargazers_count": 3801,
     "open_issues_count": 17,
     "forks_count": 87
   },
   {
     "full_name": "algorithm-visualizer/algorithm-visualizer",
-    "stargazers_count": 39800,
-    "open_issues_count": 41,
-    "forks_count": 6477
+    "stargazers_count": 40229,
+    "open_issues_count": 43,
+    "forks_count": 6511
   },
   {
     "full_name": "shun/ddu-source-rg",
@@ -97,25 +97,25 @@
   },
   {
     "full_name": "nilslice/protolock",
-    "stargazers_count": 499,
+    "stargazers_count": 498,
     "open_issues_count": 14,
     "forks_count": 31
   },
   {
     "full_name": "randallkanna/awesome-job-list",
-    "stargazers_count": 1232,
+    "stargazers_count": 1233,
     "open_issues_count": 2,
     "forks_count": 134
   },
   {
     "full_name": "jhump/protoreflect",
-    "stargazers_count": 1020,
+    "stargazers_count": 1022,
     "open_issues_count": 18,
-    "forks_count": 142
+    "forks_count": 143
   },
   {
     "full_name": "moul/protoc-gen-gotemplate",
-    "stargazers_count": 392,
+    "stargazers_count": 393,
     "open_issues_count": 23,
     "forks_count": 66
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "99designs/gqlgen",
-    "stargazers_count": 8265,
-    "open_issues_count": 146,
-    "forks_count": 957
+    "stargazers_count": 8268,
+    "open_issues_count": 148,
+    "forks_count": 959
   },
   {
     "full_name": "bojand/ghz",
-    "stargazers_count": 2223,
+    "stargazers_count": 2226,
     "open_issues_count": 58,
-    "forks_count": 217
+    "forks_count": 216
   },
   {
     "full_name": "google/go-cmdtest",
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "gsi-cyberjapan/gsimaps",
-    "stargazers_count": 595,
+    "stargazers_count": 596,
     "open_issues_count": 9,
-    "forks_count": 653
+    "forks_count": 654
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30364,
-    "open_issues_count": 412,
-    "forks_count": 4356
+    "stargazers_count": 30397,
+    "open_issues_count": 414,
+    "forks_count": 4364
   },
   {
     "full_name": "lucasepe/draft",
-    "stargazers_count": 551,
+    "stargazers_count": 552,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "google/vscode-bigquery",
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 15,
     "forks_count": 19
   }
