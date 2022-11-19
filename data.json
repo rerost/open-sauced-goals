@@ -1,13 +1,13 @@
 [
   {
     "full_name": "grpc/grpc-go",
-    "stargazers_count": 17111,
-    "open_issues_count": 163,
-    "forks_count": 3823
+    "stargazers_count": 17118,
+    "open_issues_count": 160,
+    "forks_count": 3827
   },
   {
     "full_name": "ktr0731/evans",
-    "stargazers_count": 3369,
+    "stargazers_count": 3373,
     "open_issues_count": 13,
     "forks_count": 155
   },
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 806,
-    "open_issues_count": 11,
+    "stargazers_count": 808,
+    "open_issues_count": 12,
     "forks_count": 443
   }
 ]
