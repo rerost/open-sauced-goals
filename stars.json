@@ -1,8 +1,8 @@
 [
   {
     "full_name": "elastic/ecs",
-    "stargazers_count": 894,
-    "open_issues_count": 167,
+    "stargazers_count": 895,
+    "open_issues_count": 169,
     "forks_count": 381
   },
   {
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "goccy/bigquery-emulator",
-    "stargazers_count": 338,
-    "open_issues_count": 11,
+    "stargazers_count": 342,
+    "open_issues_count": 12,
     "forks_count": 24
   },
   {
     "full_name": "TomWright/dasel",
-    "stargazers_count": 3995,
-    "open_issues_count": 26,
+    "stargazers_count": 4011,
+    "open_issues_count": 27,
     "forks_count": 92
   },
   {
     "full_name": "algorithm-visualizer/algorithm-visualizer",
-    "stargazers_count": 42091,
+    "stargazers_count": 42108,
     "open_issues_count": 51,
-    "forks_count": 6735
+    "forks_count": 6738
   },
   {
     "full_name": "shun/ddu-source-rg",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "nilslice/protolock",
-    "stargazers_count": 507,
+    "stargazers_count": 509,
     "open_issues_count": 16,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "randallkanna/awesome-job-list",
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "jhump/protoreflect",
-    "stargazers_count": 1059,
-    "open_issues_count": 12,
+    "stargazers_count": 1060,
+    "open_issues_count": 13,
     "forks_count": 144
   },
   {
     "full_name": "moul/protoc-gen-gotemplate",
-    "stargazers_count": 397,
+    "stargazers_count": 398,
     "open_issues_count": 23,
     "forks_count": 67
   },
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "99designs/gqlgen",
-    "stargazers_count": 8564,
-    "open_issues_count": 183,
-    "forks_count": 1004
+    "stargazers_count": 8580,
+    "open_issues_count": 182,
+    "forks_count": 1003
   },
   {
     "full_name": "bojand/ghz",
-    "stargazers_count": 2306,
-    "open_issues_count": 67,
+    "stargazers_count": 2309,
+    "open_issues_count": 63,
     "forks_count": 223
   },
   {
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 31116,
-    "open_issues_count": 411,
-    "forks_count": 4617
+    "stargazers_count": 31160,
+    "open_issues_count": 414,
+    "forks_count": 4629
   },
   {
     "full_name": "lucasepe/draft",
