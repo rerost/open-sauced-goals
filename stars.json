@@ -1,32 +1,38 @@
 [
   {
+    "full_name": "zerebom/SummarAIzeHub",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 53579,
-    "open_issues_count": 308,
-    "forks_count": 11068
+    "stargazers_count": 54602,
+    "open_issues_count": 313,
+    "forks_count": 11279
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 13649,
-    "open_issues_count": 97,
-    "forks_count": 1880
+    "stargazers_count": 14008,
+    "open_issues_count": 104,
+    "forks_count": 1990
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 8781,
-    "open_issues_count": 2,
-    "forks_count": 579
+    "stargazers_count": 8857,
+    "open_issues_count": 3,
+    "forks_count": 595
   },
   {
     "full_name": "elastic/ecs",
     "stargazers_count": 909,
-    "open_issues_count": 177,
-    "forks_count": 397
+    "open_issues_count": 176,
+    "forks_count": 398
   },
   {
     "full_name": "knsh14/vim-github-link",
     "stargazers_count": 47,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 12
   },
   {
@@ -61,8 +67,8 @@
   },
   {
     "full_name": "beartype/beartype",
-    "stargazers_count": 1734,
-    "open_issues_count": 42,
+    "stargazers_count": 1743,
+    "open_issues_count": 40,
     "forks_count": 34
   },
   {
@@ -73,27 +79,27 @@
   },
   {
     "full_name": "goccy/bigquery-emulator",
-    "stargazers_count": 407,
-    "open_issues_count": 36,
-    "forks_count": 31
+    "stargazers_count": 410,
+    "open_issues_count": 37,
+    "forks_count": 32
   },
   {
     "full_name": "TomWright/dasel",
-    "stargazers_count": 4150,
-    "open_issues_count": 32,
+    "stargazers_count": 4158,
+    "open_issues_count": 35,
     "forks_count": 97
   },
   {
     "full_name": "algorithm-visualizer/algorithm-visualizer",
-    "stargazers_count": 42623,
+    "stargazers_count": 42652,
     "open_issues_count": 57,
-    "forks_count": 6814
+    "forks_count": 6815
   },
   {
     "full_name": "shun/ddu-source-rg",
     "stargazers_count": 28,
     "open_issues_count": 1,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "k-nasa/gid",
@@ -117,7 +123,7 @@
     "full_name": "nilslice/protolock",
     "stargazers_count": 528,
     "open_issues_count": 16,
-    "forks_count": 33
+    "forks_count": 32
   },
   {
     "full_name": "randallkanna/awesome-job-list",
@@ -127,13 +133,13 @@
   },
   {
     "full_name": "jhump/protoreflect",
-    "stargazers_count": 1106,
+    "stargazers_count": 1108,
     "open_issues_count": 10,
     "forks_count": 146
   },
   {
     "full_name": "moul/protoc-gen-gotemplate",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 25,
     "forks_count": 68
   },
@@ -145,15 +151,15 @@
   },
   {
     "full_name": "99designs/gqlgen",
-    "stargazers_count": 8782,
-    "open_issues_count": 195,
-    "forks_count": 1031
+    "stargazers_count": 8802,
+    "open_issues_count": 194,
+    "forks_count": 1032
   },
   {
     "full_name": "bojand/ghz",
-    "stargazers_count": 2472,
+    "stargazers_count": 2477,
     "open_issues_count": 67,
-    "forks_count": 237
+    "forks_count": 238
   },
   {
     "full_name": "google/go-cmdtest",
@@ -172,11 +178,5 @@
     "stargazers_count": 449,
     "open_issues_count": 1,
     "forks_count": 18
-  },
-  {
-    "full_name": "gsi-cyberjapan/gsimaps",
-    "stargazers_count": 613,
-    "open_issues_count": 9,
-    "forks_count": 651
   }
 ]
