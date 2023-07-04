@@ -1,14 +1,14 @@
 [
   {
     "full_name": "mitsuhiko/rye",
-    "stargazers_count": 6482,
-    "open_issues_count": 47,
-    "forks_count": 149
+    "stargazers_count": 6507,
+    "open_issues_count": 48,
+    "forks_count": 148
   },
   {
     "full_name": "lra/mackup",
-    "stargazers_count": 13298,
-    "open_issues_count": 355,
+    "stargazers_count": 13308,
+    "open_issues_count": 357,
     "forks_count": 918
   },
   {
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 58328,
-    "open_issues_count": 347,
-    "forks_count": 11924
+    "stargazers_count": 58390,
+    "open_issues_count": 349,
+    "forks_count": 11930
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 18552,
-    "open_issues_count": 170,
-    "forks_count": 3307
+    "stargazers_count": 18628,
+    "open_issues_count": 171,
+    "forks_count": 3323
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 9833,
+    "stargazers_count": 9859,
     "open_issues_count": 1,
-    "forks_count": 702
+    "forks_count": 706
   },
   {
     "full_name": "elastic/ecs",
     "stargazers_count": 924,
-    "open_issues_count": 177,
-    "forks_count": 401
+    "open_issues_count": 179,
+    "forks_count": 402
   },
   {
     "full_name": "knsh14/vim-github-link",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "GoogleCloudPlatform/bigquery-data-lineage",
-    "stargazers_count": 121,
+    "stargazers_count": 122,
     "open_issues_count": 16,
     "forks_count": 35
   },
@@ -74,7 +74,7 @@
   {
     "full_name": "googleapis/go-sql-spanner",
     "stargazers_count": 89,
-    "open_issues_count": 15,
+    "open_issues_count": 17,
     "forks_count": 14
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "beartype/beartype",
-    "stargazers_count": 1875,
+    "stargazers_count": 1880,
     "open_issues_count": 47,
     "forks_count": 33
   },
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "goccy/bigquery-emulator",
-    "stargazers_count": 483,
-    "open_issues_count": 34,
-    "forks_count": 48
+    "stargazers_count": 487,
+    "open_issues_count": 36,
+    "forks_count": 49
   },
   {
     "full_name": "TomWright/dasel",
-    "stargazers_count": 4356,
-    "open_issues_count": 30,
+    "stargazers_count": 4367,
+    "open_issues_count": 31,
     "forks_count": 105
   },
   {
     "full_name": "algorithm-visualizer/algorithm-visualizer",
-    "stargazers_count": 43084,
+    "stargazers_count": 43094,
     "open_issues_count": 59,
-    "forks_count": 6886
+    "forks_count": 6891
   },
   {
     "full_name": "shun/ddu-source-rg",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "k-nasa/gid",
-    "stargazers_count": 59,
+    "stargazers_count": 58,
     "open_issues_count": 9,
     "forks_count": 2
   },
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "randallkanna/awesome-job-list",
-    "stargazers_count": 1398,
+    "stargazers_count": 1400,
     "open_issues_count": 4,
     "forks_count": 151
   },
   {
     "full_name": "jhump/protoreflect",
-    "stargazers_count": 1143,
+    "stargazers_count": 1146,
     "open_issues_count": 12,
     "forks_count": 154
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "99designs/gqlgen",
-    "stargazers_count": 8983,
-    "open_issues_count": 216,
+    "stargazers_count": 8989,
+    "open_issues_count": 219,
     "forks_count": 1055
   },
   {
     "full_name": "bojand/ghz",
-    "stargazers_count": 2584,
+    "stargazers_count": 2587,
     "open_issues_count": 72,
     "forks_count": 241
   }
