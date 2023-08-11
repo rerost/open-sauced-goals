@@ -1,33 +1,33 @@
 [
   {
     "full_name": "joe-re/sql-language-server",
-    "stargazers_count": 532,
-    "open_issues_count": 45,
-    "forks_count": 50
+    "stargazers_count": 534,
+    "open_issues_count": 46,
+    "forks_count": 51
   },
   {
     "full_name": "innoverio/vscode-dbt-power-user",
-    "stargazers_count": 252,
-    "open_issues_count": 54,
+    "stargazers_count": 255,
+    "open_issues_count": 55,
     "forks_count": 55
   },
   {
     "full_name": "fivetran/dbt-language-server",
     "stargazers_count": 73,
-    "open_issues_count": 4,
+    "open_issues_count": 6,
     "forks_count": 5
   },
   {
     "full_name": "mitsuhiko/rye",
-    "stargazers_count": 6716,
-    "open_issues_count": 62,
-    "forks_count": 158
+    "stargazers_count": 6734,
+    "open_issues_count": 64,
+    "forks_count": 159
   },
   {
     "full_name": "lra/mackup",
-    "stargazers_count": 13582,
+    "stargazers_count": 13592,
     "open_issues_count": 359,
-    "forks_count": 921
+    "forks_count": 920
   },
   {
     "full_name": "kalvin807/sherlock",
@@ -43,26 +43,26 @@
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 59396,
-    "open_issues_count": 364,
-    "forks_count": 12102
+    "stargazers_count": 59432,
+    "open_issues_count": 365,
+    "forks_count": 12111
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 19128,
+    "stargazers_count": 19151,
     "open_issues_count": 182,
-    "forks_count": 3468
+    "forks_count": 3471
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 10142,
-    "open_issues_count": 4,
-    "forks_count": 729
+    "stargazers_count": 10166,
+    "open_issues_count": 3,
+    "forks_count": 733
   },
   {
     "full_name": "elastic/ecs",
     "stargazers_count": 932,
-    "open_issues_count": 188,
+    "open_issues_count": 184,
     "forks_count": 405
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "beartype/beartype",
-    "stargazers_count": 1947,
+    "stargazers_count": 1951,
     "open_issues_count": 52,
     "forks_count": 37
   },
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "goccy/bigquery-emulator",
-    "stargazers_count": 509,
-    "open_issues_count": 48,
+    "stargazers_count": 510,
+    "open_issues_count": 49,
     "forks_count": 52
   },
   {
     "full_name": "TomWright/dasel",
-    "stargazers_count": 4469,
-    "open_issues_count": 33,
+    "stargazers_count": 4473,
+    "open_issues_count": 34,
     "forks_count": 113
   },
   {
     "full_name": "algorithm-visualizer/algorithm-visualizer",
-    "stargazers_count": 43801,
+    "stargazers_count": 43838,
     "open_issues_count": 59,
-    "forks_count": 7003
+    "forks_count": 7011
   },
   {
     "full_name": "shun/ddu-source-rg",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "randallkanna/awesome-job-list",
-    "stargazers_count": 1405,
+    "stargazers_count": 1406,
     "open_issues_count": 4,
     "forks_count": 152
   },
