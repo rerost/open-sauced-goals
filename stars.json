@@ -1,14 +1,20 @@
 [
   {
+    "full_name": "Songmu/ghg",
+    "stargazers_count": 93,
+    "open_issues_count": 2,
+    "forks_count": 8
+  },
+  {
     "full_name": "electric-sql/pglite",
-    "stargazers_count": 3583,
-    "open_issues_count": 21,
+    "stargazers_count": 3616,
+    "open_issues_count": 25,
     "forks_count": 58
   },
   {
     "full_name": "awslabs/llrt",
-    "stargazers_count": 7361,
-    "open_issues_count": 35,
+    "stargazers_count": 7402,
+    "open_issues_count": 39,
     "forks_count": 329
   },
   {
@@ -19,9 +25,9 @@
   },
   {
     "full_name": "magic-research/magic-animate",
-    "stargazers_count": 9562,
+    "stargazers_count": 9592,
     "open_issues_count": 97,
-    "forks_count": 961
+    "forks_count": 963
   },
   {
     "full_name": "remorses/genql",
@@ -38,14 +44,14 @@
   {
     "full_name": "trilogy-libraries/trilogy",
     "stargazers_count": 668,
-    "open_issues_count": 24,
+    "open_issues_count": 22,
     "forks_count": 59
   },
   {
     "full_name": "jinzhu/copier",
-    "stargazers_count": 5011,
+    "stargazers_count": 5023,
     "open_issues_count": 62,
-    "forks_count": 458
+    "forks_count": 460
   },
   {
     "full_name": "hirokidaichi/wanna",
@@ -55,33 +61,33 @@
   },
   {
     "full_name": "mattn/efm-langserver",
-    "stargazers_count": 1263,
+    "stargazers_count": 1265,
     "open_issues_count": 55,
     "forks_count": 56
   },
   {
     "full_name": "styled-components/typescript-styled-plugin",
     "stargazers_count": 59,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 7
   },
   {
     "full_name": "microsoft/typescript-styled-plugin",
-    "stargazers_count": 837,
+    "stargazers_count": 836,
     "open_issues_count": 0,
     "forks_count": 56
   },
   {
-    "full_name": "KillianLucas/open-interpreter",
-    "stargazers_count": 42015,
-    "open_issues_count": 157,
-    "forks_count": 3690
+    "full_name": "OpenInterpreter/open-interpreter",
+    "stargazers_count": 42369,
+    "open_issues_count": 91,
+    "forks_count": 3708
   },
   {
     "full_name": "BerriAI/litellm",
-    "stargazers_count": 6496,
-    "open_issues_count": 424,
-    "forks_count": 716
+    "stargazers_count": 6691,
+    "open_issues_count": 431,
+    "forks_count": 732
   },
   {
     "full_name": "morishin/XDeck",
@@ -97,8 +103,8 @@
   },
   {
     "full_name": "AltimateAI/vscode-dbt-power-user",
-    "stargazers_count": 390,
-    "open_issues_count": 91,
+    "stargazers_count": 394,
+    "open_issues_count": 92,
     "forks_count": 76
   },
   {
@@ -109,13 +115,13 @@
   },
   {
     "full_name": "astral-sh/rye",
-    "stargazers_count": 10695,
+    "stargazers_count": 10769,
     "open_issues_count": 132,
-    "forks_count": 380
+    "forks_count": 383
   },
   {
     "full_name": "lra/mackup",
-    "stargazers_count": 14116,
+    "stargazers_count": 14121,
     "open_issues_count": 339,
     "forks_count": 920
   },
@@ -133,27 +139,27 @@
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 61033,
-    "open_issues_count": 452,
-    "forks_count": 12139
+    "stargazers_count": 61085,
+    "open_issues_count": 390,
+    "forks_count": 12143
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 20732,
+    "stargazers_count": 20747,
     "open_issues_count": 230,
-    "forks_count": 3657
+    "forks_count": 3660
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 11171,
-    "open_issues_count": 4,
-    "forks_count": 832
+    "stargazers_count": 11187,
+    "open_issues_count": 3,
+    "forks_count": 834
   },
   {
     "full_name": "elastic/ecs",
-    "stargazers_count": 967,
+    "stargazers_count": 968,
     "open_issues_count": 205,
-    "forks_count": 406
+    "forks_count": 407
   },
   {
     "full_name": "knsh14/vim-github-link",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "GoogleCloudPlatform/bigquery-data-lineage",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 19,
     "forks_count": 37
-  },
-  {
-    "full_name": "Apress/practical-tla-plus",
-    "stargazers_count": 278,
-    "open_issues_count": 5,
-    "forks_count": 64
   }
 ]
