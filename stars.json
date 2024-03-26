@@ -7,15 +7,15 @@
   },
   {
     "full_name": "electric-sql/pglite",
-    "stargazers_count": 3616,
-    "open_issues_count": 25,
-    "forks_count": 58
+    "stargazers_count": 3787,
+    "open_issues_count": 14,
+    "forks_count": 63
   },
   {
     "full_name": "awslabs/llrt",
-    "stargazers_count": 7402,
-    "open_issues_count": 39,
-    "forks_count": 329
+    "stargazers_count": 7433,
+    "open_issues_count": 43,
+    "forks_count": 331
   },
   {
     "full_name": "fohte/rubocop-daemon",
@@ -25,20 +25,20 @@
   },
   {
     "full_name": "magic-research/magic-animate",
-    "stargazers_count": 9592,
+    "stargazers_count": 9622,
     "open_issues_count": 97,
-    "forks_count": 963
+    "forks_count": 966
   },
   {
     "full_name": "remorses/genql",
     "stargazers_count": 823,
-    "open_issues_count": 17,
-    "forks_count": 31
+    "open_issues_count": 18,
+    "forks_count": 32
   },
   {
     "full_name": "square/rbs_protobuf",
     "stargazers_count": 37,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 6
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jinzhu/copier",
-    "stargazers_count": 5023,
+    "stargazers_count": 5028,
     "open_issues_count": 62,
-    "forks_count": 460
+    "forks_count": 461
   },
   {
     "full_name": "hirokidaichi/wanna",
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "mattn/efm-langserver",
-    "stargazers_count": 1265,
+    "stargazers_count": 1266,
     "open_issues_count": 55,
     "forks_count": 56
   },
   {
     "full_name": "styled-components/typescript-styled-plugin",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 13,
     "forks_count": 7
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "OpenInterpreter/open-interpreter",
-    "stargazers_count": 42369,
-    "open_issues_count": 91,
-    "forks_count": 3708
+    "stargazers_count": 44749,
+    "open_issues_count": 104,
+    "forks_count": 3880
   },
   {
     "full_name": "BerriAI/litellm",
-    "stargazers_count": 6691,
-    "open_issues_count": 431,
-    "forks_count": 732
+    "stargazers_count": 6844,
+    "open_issues_count": 459,
+    "forks_count": 750
   },
   {
     "full_name": "morishin/XDeck",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "AltimateAI/vscode-dbt-power-user",
-    "stargazers_count": 394,
-    "open_issues_count": 92,
+    "stargazers_count": 395,
+    "open_issues_count": 89,
     "forks_count": 76
   },
   {
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "astral-sh/rye",
-    "stargazers_count": 10769,
-    "open_issues_count": 132,
-    "forks_count": 383
+    "stargazers_count": 10825,
+    "open_issues_count": 150,
+    "forks_count": 384
   },
   {
     "full_name": "lra/mackup",
-    "stargazers_count": 14121,
-    "open_issues_count": 339,
+    "stargazers_count": 14128,
+    "open_issues_count": 341,
     "forks_count": 920
   },
   {
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 61085,
-    "open_issues_count": 390,
-    "forks_count": 12143
+    "stargazers_count": 61101,
+    "open_issues_count": 393,
+    "forks_count": 12144
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 20747,
-    "open_issues_count": 230,
-    "forks_count": 3660
+    "stargazers_count": 20759,
+    "open_issues_count": 231,
+    "forks_count": 3665
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 11187,
+    "stargazers_count": 11201,
     "open_issues_count": 3,
-    "forks_count": 834
+    "forks_count": 830
   },
   {
     "full_name": "elastic/ecs",
-    "stargazers_count": 968,
+    "stargazers_count": 969,
     "open_issues_count": 205,
-    "forks_count": 407
+    "forks_count": 406
   },
   {
     "full_name": "knsh14/vim-github-link",
