@@ -7,15 +7,15 @@
   },
   {
     "full_name": "electric-sql/pglite",
-    "stargazers_count": 3909,
-    "open_issues_count": 17,
-    "forks_count": 65
+    "stargazers_count": 3980,
+    "open_issues_count": 21,
+    "forks_count": 66
   },
   {
     "full_name": "awslabs/llrt",
-    "stargazers_count": 7447,
-    "open_issues_count": 35,
-    "forks_count": 331
+    "stargazers_count": 7471,
+    "open_issues_count": 39,
+    "forks_count": 334
   },
   {
     "full_name": "fohte/rubocop-daemon",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "magic-research/magic-animate",
-    "stargazers_count": 9652,
+    "stargazers_count": 9680,
     "open_issues_count": 97,
-    "forks_count": 969
+    "forks_count": 972
   },
   {
     "full_name": "remorses/genql",
-    "stargazers_count": 826,
+    "stargazers_count": 827,
     "open_issues_count": 18,
     "forks_count": 32
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "trilogy-libraries/trilogy",
-    "stargazers_count": 668,
+    "stargazers_count": 670,
     "open_issues_count": 23,
     "forks_count": 59
   },
   {
     "full_name": "jinzhu/copier",
-    "stargazers_count": 5034,
-    "open_issues_count": 62,
-    "forks_count": 462
+    "stargazers_count": 5049,
+    "open_issues_count": 63,
+    "forks_count": 463
   },
   {
     "full_name": "hirokidaichi/wanna",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "mattn/efm-langserver",
-    "stargazers_count": 1268,
-    "open_issues_count": 54,
-    "forks_count": 55
+    "stargazers_count": 1267,
+    "open_issues_count": 55,
+    "forks_count": 56
   },
   {
     "full_name": "styled-components/typescript-styled-plugin",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "OpenInterpreter/open-interpreter",
-    "stargazers_count": 45731,
-    "open_issues_count": 98,
-    "forks_count": 3944
+    "stargazers_count": 46295,
+    "open_issues_count": 105,
+    "forks_count": 3999
   },
   {
     "full_name": "BerriAI/litellm",
-    "stargazers_count": 7019,
-    "open_issues_count": 469,
-    "forks_count": 768
+    "stargazers_count": 7211,
+    "open_issues_count": 468,
+    "forks_count": 785
   },
   {
     "full_name": "morishin/XDeck",
@@ -97,31 +97,31 @@
   },
   {
     "full_name": "joe-re/sql-language-server",
-    "stargazers_count": 640,
+    "stargazers_count": 641,
     "open_issues_count": 60,
     "forks_count": 59
   },
   {
     "full_name": "AltimateAI/vscode-dbt-power-user",
-    "stargazers_count": 395,
-    "open_issues_count": 95,
+    "stargazers_count": 396,
+    "open_issues_count": 96,
     "forks_count": 76
   },
   {
     "full_name": "fivetran/dbt-language-server",
     "stargazers_count": 82,
-    "open_issues_count": 13,
+    "open_issues_count": 26,
     "forks_count": 6
   },
   {
     "full_name": "astral-sh/rye",
-    "stargazers_count": 10886,
-    "open_issues_count": 162,
-    "forks_count": 387
+    "stargazers_count": 10949,
+    "open_issues_count": 159,
+    "forks_count": 392
   },
   {
     "full_name": "lra/mackup",
-    "stargazers_count": 14140,
+    "stargazers_count": 14152,
     "open_issues_count": 343,
     "forks_count": 922
   },
@@ -133,31 +133,31 @@
   },
   {
     "full_name": "zerebom/SummarAIzeHub",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 61117,
+    "stargazers_count": 61157,
     "open_issues_count": 393,
-    "forks_count": 12144
+    "forks_count": 12143
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 20771,
+    "stargazers_count": 20786,
     "open_issues_count": 233,
-    "forks_count": 3663
+    "forks_count": 3665
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 11212,
-    "open_issues_count": 4,
-    "forks_count": 829
+    "stargazers_count": 11222,
+    "open_issues_count": 3,
+    "forks_count": 831
   },
   {
     "full_name": "elastic/ecs",
-    "stargazers_count": 969,
+    "stargazers_count": 970,
     "open_issues_count": 205,
     "forks_count": 406
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "GoogleCloudPlatform/bigquery-data-lineage",
-    "stargazers_count": 134,
+    "stargazers_count": 133,
     "open_issues_count": 19,
     "forks_count": 37
   }
