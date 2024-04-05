@@ -7,15 +7,15 @@
   },
   {
     "full_name": "electric-sql/pglite",
-    "stargazers_count": 3980,
-    "open_issues_count": 21,
-    "forks_count": 66
+    "stargazers_count": 4057,
+    "open_issues_count": 22,
+    "forks_count": 70
   },
   {
     "full_name": "awslabs/llrt",
-    "stargazers_count": 7471,
-    "open_issues_count": 39,
-    "forks_count": 334
+    "stargazers_count": 7496,
+    "open_issues_count": 37,
+    "forks_count": 337
   },
   {
     "full_name": "fohte/rubocop-daemon",
@@ -25,31 +25,31 @@
   },
   {
     "full_name": "magic-research/magic-animate",
-    "stargazers_count": 9680,
+    "stargazers_count": 9700,
     "open_issues_count": 97,
-    "forks_count": 972
+    "forks_count": 973
   },
   {
     "full_name": "remorses/genql",
     "stargazers_count": 827,
     "open_issues_count": 18,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "square/rbs_protobuf",
     "stargazers_count": 37,
-    "open_issues_count": 9,
+    "open_issues_count": 11,
     "forks_count": 6
   },
   {
     "full_name": "trilogy-libraries/trilogy",
-    "stargazers_count": 670,
+    "stargazers_count": 671,
     "open_issues_count": 23,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "jinzhu/copier",
-    "stargazers_count": 5049,
+    "stargazers_count": 5058,
     "open_issues_count": 63,
     "forks_count": 463
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "mattn/efm-langserver",
-    "stargazers_count": 1267,
+    "stargazers_count": 1270,
     "open_issues_count": 55,
     "forks_count": 56
   },
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "microsoft/typescript-styled-plugin",
-    "stargazers_count": 836,
+    "stargazers_count": 837,
     "open_issues_count": 0,
     "forks_count": 56
   },
   {
     "full_name": "OpenInterpreter/open-interpreter",
-    "stargazers_count": 46295,
-    "open_issues_count": 105,
-    "forks_count": 3999
+    "stargazers_count": 46654,
+    "open_issues_count": 118,
+    "forks_count": 4024
   },
   {
     "full_name": "BerriAI/litellm",
-    "stargazers_count": 7211,
-    "open_issues_count": 468,
-    "forks_count": 785
+    "stargazers_count": 7334,
+    "open_issues_count": 480,
+    "forks_count": 807
   },
   {
     "full_name": "morishin/XDeck",
@@ -104,7 +104,7 @@
   {
     "full_name": "AltimateAI/vscode-dbt-power-user",
     "stargazers_count": 396,
-    "open_issues_count": 96,
+    "open_issues_count": 97,
     "forks_count": 76
   },
   {
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "astral-sh/rye",
-    "stargazers_count": 10949,
-    "open_issues_count": 159,
-    "forks_count": 392
+    "stargazers_count": 11023,
+    "open_issues_count": 169,
+    "forks_count": 396
   },
   {
     "full_name": "lra/mackup",
-    "stargazers_count": 14152,
-    "open_issues_count": 343,
-    "forks_count": 922
+    "stargazers_count": 14159,
+    "open_issues_count": 342,
+    "forks_count": 920
   },
   {
     "full_name": "kalvin807/sherlock",
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 61157,
+    "stargazers_count": 61182,
     "open_issues_count": 393,
-    "forks_count": 12143
+    "forks_count": 12138
   },
   {
     "full_name": "openai/chatgpt-retrieval-plugin",
-    "stargazers_count": 20786,
+    "stargazers_count": 20798,
     "open_issues_count": 233,
-    "forks_count": 3665
+    "forks_count": 3668
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 11222,
-    "open_issues_count": 3,
-    "forks_count": 831
+    "stargazers_count": 11261,
+    "open_issues_count": 1,
+    "forks_count": 833
   },
   {
     "full_name": "elastic/ecs",
     "stargazers_count": 970,
-    "open_issues_count": 205,
-    "forks_count": 406
+    "open_issues_count": 206,
+    "forks_count": 407
   },
   {
     "full_name": "knsh14/vim-github-link",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "GoogleCloudPlatform/bigquery-data-lineage",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 19,
     "forks_count": 37
   }
